@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Developer Org",
+  "namespace": "",
+  "sfdcLoginUrl": "https://devlab-jggs-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "64.0"
+}
